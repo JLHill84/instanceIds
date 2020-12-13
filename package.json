@@ -9,6 +9,7 @@
   "author": "Josh Hill",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "exceljs": "^4.2.0"
   }
 }
