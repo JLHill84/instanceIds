@@ -1,0 +1,14 @@
+{
+  "name": "usecase2scrubber",
+  "version": "1.0.0",
+  "description": "script to scrub excel sheet and generate json with data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Hill",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.0"
+  }
+}
